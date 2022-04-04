@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @enessm
+- 👋 Hi, I’m Enes
 - 👀 I’m interested in blockchain and smart contracts
 - 🌱 I’m currently learning solidity, rust and python
 - 💞️ I’m looking to collaborate on blockchain projects.
